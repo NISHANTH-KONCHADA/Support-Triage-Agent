@@ -31,3 +31,7 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+
+# generated outputs
+support_tickets/output.csv
+support_issues/output.csv
