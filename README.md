@@ -7,7 +7,7 @@ The project was originally built during the HackerRank Orchestrate challenge and
 ## Why this project is interesting
 
 - Multi-brand support routing in a single pipeline
-- Retrieval-augmented generation over a local support corpus
+- Retrieval-augmented generation over a local support corpus 
 - Deterministic-friendly setup with offline document indexing
 - Safe escalation behavior for risky, ambiguous, or unsupported requests
 - Simple terminal workflow that is easy to demo and extend
