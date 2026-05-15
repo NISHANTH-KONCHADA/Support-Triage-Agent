@@ -80,3 +80,10 @@ The generated CSV includes:
 - `response`
 - `justification`
 - `request_type`
+
+## 🏆 Achievement
+
+Ranked **227th place** at HackerRank Orchestrate May 2026 — a 24-hour hackathon 
+challenge to build a multi-domain AI support triage agent.
+
+![Certificate of Excellence](certificate.png)
