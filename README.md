@@ -83,7 +83,6 @@ The generated CSV includes:
 
 ## 🏆 Achievement
 
-Ranked **227th place** at HackerRank Orchestrate May 2026 — a 24-hour hackathon 
-challenge to build a multi-domain AI support triage agent.
+Ranked **227th place** at HackerRank Orchestrate May 2026
 
-![Certificate of Excellence](certificate.png)
+[![Certificate of Excellence](certificate.png)]([https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard](https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard?username=konchadanishant1))
