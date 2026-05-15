@@ -85,4 +85,4 @@ The generated CSV includes:
 
 Ranked **227th place** at HackerRank Orchestrate May 2026
 
-[![Certificate of Excellence](certificate.png)]([https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard](https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard?username=konchadanishant1))
+[![Certificate of Excellence]([https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard](https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/leaderboard?username=konchadanishant1))
